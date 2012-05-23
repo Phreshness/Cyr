@@ -1,2 +1,2 @@
 Cyr
-Here you will find various files i've been toying with.
+== A public mainframe java runnable that works as a sort of organizer. Planning on implementing twitter and facebook support. Work in progress.
